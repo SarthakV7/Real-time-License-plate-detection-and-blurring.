@@ -1,4 +1,4 @@
-#### Note - Please go through the 'license_plate_detector.ipynb' file for getting an overview of the code.
+#### Note - Please go through the 'license_plate_detector.ipynb' file to get an overview of the code.
 
 #### Quick summary-
  - The code detects Indian car's license plates and blurs it. The code is written in python 3.6 and openCV 4.1.0 is used for image processing.
