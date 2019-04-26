@@ -1,3 +1,5 @@
+# Real-time license plate detection and blurring using openCV and Python 3.6
+
 #### Note - Please go through the 'license_plate_detector.ipynb' file to get an overview of the code.
 
 #### Quick summary-
